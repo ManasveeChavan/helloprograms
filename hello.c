@@ -1,1 +1,6 @@
-
+#include<stdio.h>
+int main()
+{
+  printf("Hello DevOps");
+  retuen 0;
+}
