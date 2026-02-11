@@ -2,5 +2,5 @@
 int main()
 {
   printf("Hello DevOps from C");
-  retuen 0;
+  return 0;
 }
